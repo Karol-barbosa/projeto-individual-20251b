@@ -18,7 +18,7 @@
 
 <br>
 
-## <a name="c1"></a>1. Introdução (sprints 1 a 5)
+## <a name="c1"></a>1. Introdução (semana 3)
 
 *Preencha com até 300 palavras – sem necessidade de fonte.*
 
@@ -112,6 +112,8 @@
 ---
 
 ## <a name="c7"></a>5. Conclusões e Trabalhos Futuros (Semana 8)
+
+*VIDEO: Insira o link do vídeo demonstrativo nesta seção*
 
 *Indique pontos fortes e pontos a melhorar de maneira geral.*
 
