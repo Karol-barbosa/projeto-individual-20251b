@@ -21,8 +21,9 @@ Até sexta-feira da **semana 3** do módulo.
 - README com:
     - Descrição do sistema escolhido
     - Estrutura de pastas e arquivos
-    - Explicação sobre o padrão MVC
     - Como executar o projeto localmente
+- WAD com
+    - Introdução
     - Diagrama do banco de dados
 
 
