@@ -10,7 +10,7 @@ Entrega:
 - README explicativo
 
 Prazo de Entrega:
-Até sexta-feira da semana 3 do módulo.
+Até sexta-feira da **semana 3** do módulo.
 
 ##  Requisitos Mínimos da Entrega
 - Estrutura de projeto no padrão MVC (Model, View, Controller).

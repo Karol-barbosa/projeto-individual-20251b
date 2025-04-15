@@ -1,8 +1,7 @@
 # Projeto Individual (Parte 3) — Sistema Completo com Funcionalidades e Interface
  Objetivo: Implementar a interface visual do sistema, conectando as páginas à lógica de backend já criada e ao banco de dados. O foco é construir pelo views funcionais que permitam interação real com os dados do sistema, usando HTML/EJS, estilização CSS e consumo de rotas REST com JavaScript e Fetch API.
  
-Prazo de Entrega:
-Até sexta-feira da semana 7 do módulo.
+Prazo de Entrega: até sexta-feira da **semana 7** do módulo.
 
 Entrega:
 - Submissão individual (mesmo repositório do projeto).

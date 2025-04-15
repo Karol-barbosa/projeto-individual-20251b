@@ -7,8 +7,7 @@ Entrega:
 - Projeto hospedado em repositório público no GitHub.
 - Documentação atualizada (README e WAD.md).
 
-Prazo de Entrega:
-Até sexta-feira da semana 5 do módulo.
+Prazo de Entrega: até sexta-feira da *semana 5* do módulo.
 
 
 ##  Requisitos Mínimos da Entrega
