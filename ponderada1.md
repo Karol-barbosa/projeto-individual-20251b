@@ -89,10 +89,9 @@ O padrão MVC (Model-View-Controller) é uma forma de organizar o código para q
 
 ➡️ Imagine que o usuário preenche um formulário: o Controller recebe os dados, usa o Model para salvar no banco e responde com uma View de sucesso.
 
-🔗 Leitura recomendada: 
 
 
-### ⚙️ Etapa 2 — Inicializando o projeto com Node.js
+### Etapa 2 — Inicializando o projeto com Node.js
 Agora você vai criar o coração do seu sistema: o servidor backend. Ele será responsável por receber requisições, processá-las e retornar respostas (HTML, dados, etc.).
 #### Passo 1 — Criar o projeto e instalar o Express
 Abra o terminal na pasta do seu projeto:
@@ -128,7 +127,7 @@ app.listen(PORT, () => {
 ```
 💡 O express.json() permite que seu servidor entenda dados enviados em formato JSON, como formulários de cadastro.
 
-### 🧱 Etapa 3 — Criando o modelo do banco de dados
+### Etapa 3 — Criando o modelo do banco de dados
 
 Mesmo que você ainda não vá conectar o banco de dados à sua aplicação agora, é fundamental já planejar quais informações o sistema vai armazenar. Exemplo de tabelas possíveis:
 
