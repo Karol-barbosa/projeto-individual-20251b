@@ -18,11 +18,11 @@ Até sexta-feira da **semana 3** do módulo.
 - Projeto executável com Node.js (node server.js ou npm start).
 - Pelo menos duas páginas .ejs funcionais.
 - Modelo Físico (código SQL) e Relacional (imagem do diagrama) do banco de dadosno repositório
-- README com:
+- Atualização de README com:
     - Descrição do sistema escolhido
     - Estrutura de pastas e arquivos
     - Como executar o projeto localmente
-- WAD com
+- Atualização de WAD com:
     - Introdução
     - Diagrama do banco de dados
 
