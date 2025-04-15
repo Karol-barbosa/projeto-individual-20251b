@@ -10,15 +10,23 @@ Seu projeto será desenvolvido progressivamente ao longo das semanas, por meio d
 
 ## Requisitos:
 Para que o sistema seja considerado completo, ele deverá incluir:
+
  ✅ Banco de Dados: Estrutura relacional ou não-relacional para armazenamento das informações.
+
  ✅ Backend: Implementação da lógica de negócio e conexão com o banco de dados.
+
  ✅ Frontend: Interface intuitiva para interação do usuário.
+
  ✅ Integração: Comunicação entre frontend e backend utilizando API.
+
  ✅ Documentação e código no GitHub: O código-fonte deve ser documentado e armazenado em um repositório público no seu perfil do GitHub.
 
  ## Entregas Parciais
 
 [Projeto Individual (Parte 1) - Estruturando a Base do Projeto](/projeto-individual-20251b/ponderada1.md)
+
 [Projeto Individual (Parte 2) - Conectando Banco de Dados e Servidor](/projeto-individual-20251b/ponderada2.md)
+
 [Projeto Individual (Parte 3) - Construindo Interface e Navegação](/projeto-individual-20251b/ponderada2.md)
+
 [Projeto Individual (Parte 4) -  Revisão de documentação e Demonstração ](/projeto-individual-20251b/ponderada4.md)
