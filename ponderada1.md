@@ -12,21 +12,6 @@ Entrega:
 Prazo de Entrega:
 Até sexta-feira da **semana 3** do módulo.
 
-##  Requisitos Mínimos da Entrega
-- Estrutura de projeto no padrão MVC (Model, View, Controller).
-- Arquivo server.js funcionando.
-- Projeto executável com Node.js (node server.js ou npm start).
-- Pelo menos duas páginas .ejs funcionais.
-- Modelo Físico (código SQL) e Relacional (imagem do diagrama) do banco de dadosno repositório
-- Atualização de README com:
-    - Descrição do sistema escolhido
-    - Estrutura de pastas e arquivos
-    - Como executar o projeto localmente
-- Atualização de WAD com:
-    - Introdução
-    - Diagrama do banco de dados
-
-
 ---
 
 ## Instruções
@@ -150,12 +135,15 @@ Salve como imagem ou PDF no repositório com o nome modelo-banco.png ou modelo-b
 
 ---
 
-## Critérios de avaliação
-
-| Critério | Descrição | 
-| ------------- | ------------- |
-| 1. Organização da estrutura do projeto (MVC) | Projeto segue a estrutura de pastas recomendada (models, controllers, routes, config, etc.). | 
-| 2. Inicialização correta com Node.js e Express | Projeto está configurado com npm init, express instalado e server.js funcional. |
-| 3. Implementação básica do servidor e roteamento | Código do server.js e das rotas funciona corretamente e exibe uma resposta na rota /. | 
-| 4. Modelo do Banco de Dados (Físico e Relacional) | Entidades estão bem definidas com campos e relações coerentes. Modelo entregue em formato visual (imagem ou PDF). |
-| 5. Documentação no repositório | O repositório apresenta README com descrição do projeto, estrutura de pastas, instruções de execução e imagem do modelo do banco. | 
+##  Requisitos Mínimos da Entrega
+- Estrutura de projeto no padrão MVC (Model, View, Controller).
+- Arquivo server.js funcionando.
+- Projeto executável com Node.js (node server.js ou npm start).
+- Modelo Físico (código SQL) e Relacional (imagem do diagrama) do banco de dadosno repositório
+- Atualização de README com:
+    - Descrição do sistema escolhido
+    - Estrutura de pastas e arquivos
+    - Como executar o projeto localmente
+- Atualização de WAD com:
+    - Introdução
+    - Diagrama do banco de dados
