@@ -53,7 +53,7 @@ Organize a documentação para que qualquer pessoa consiga entender e rodar seu 
 - Organize o repositório: exclua arquivos inúteis e garanta que o `package.json` esteja funcional.
 
 ----
-## Requisitos Mínimos de Entrega
+## Requisitos Mínimos da Entrega
 
 | Requisito                      | Descrição                                                                 |
 |------------------------------|---------------------------------------------------------------------------|
