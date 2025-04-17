@@ -25,7 +25,7 @@ Para que o sistema seja considerado completo, ele deverá incluir:
 
 [Projeto Individual (Parte 1) - Estruturando a Base do Projeto](/ponderada1.md)
 
-[Projeto Individual (Parte 2) - Conectando Banco de Dados e Servidor](//ponderada2.md)
+[Projeto Individual (Parte 2) - Conectando Banco de Dados e Servidor](/ponderada2.md)
 
 [Projeto Individual (Parte 3) - Construindo Interface e Navegação](/ponderada3.md)
 
