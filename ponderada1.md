@@ -82,16 +82,15 @@ Agora você vai criar o coração do seu sistema: o servidor backend. Ele será 
 #### Passo 1 — Criar o projeto e instalar o Express
 Abra o terminal na pasta do seu projeto:
 
-bash
-Copiar
-Editar
+```
 npm init -y
 Instale o Express:
+```
 
-bash
-Copiar
-Editar
+```
 npm install express
+```
+
 #### Passo 2 — Criar o servidor
 No arquivo server.js, insira o seguinte código:
 ```
