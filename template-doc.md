@@ -14,7 +14,6 @@
 4. [Desenvolvimento da Aplicação Web](#c4)  
 5. [Conclusões e Trabalhos Futuros](#c7)  
 6. [Referências](#c8)  
-7. [Anexos](#c9)
 
 <br>
 
@@ -79,39 +78,30 @@
 
 ### 3.5. Modelagem do banco de dados  (Semana 3)
 
-#### 3.5.1. Modelo relacional 
-
 *Posicione aqui os diagramas de modelos relacionais do seu banco de dados, apresentando todos os esquemas de tabelas e suas relações. Utilize texto para complementar suas explicações, se necessário.*
 
-### 3.5. BD e Models (Semana 5)
+*Posicione também o modelo físico com o Schema do BD (arquivo .sql)*
+
+### 3.5.1 BD e Models (Semana 5)
+*Descreva aqui os Models implementados no sistema web*
 
 ### 3.6. WebAPI e endpoints (Semana 5)
 
 *Utilize um link para outra página de documentação contendo a descrição completa de cada endpoint. Ou descreva aqui cada endpoint criado para seu sistema.*  
 
-*Cada endpoint deve conter endereço, método (GET, POST, PUT, PATCH, DELETE), header, body e formatos de response.*
+### 3.7 Interface e Navegação (Semana 7)
 
-### 3.7. Views (Semana 7)
-
----
-
-## <a name="c4"></a>4. Desenvolvimento da Aplicação Web
-
-### 4.1. Primeira versão da aplicação web (Semana 3)
-
-*Descreva e ilustre aqui o desenvolvimento da sua primeira versão do sistema web, explicando brevemente o que foi entregue em termos de código e sistema. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
-
-### 4.2. Segunda versão da aplicação web (Semana 5)
-
-*Descreva e ilustre aqui o desenvolvimento da sua segunda versão do sistema web, explicando brevemente o que foi entregue em termos de código e sistema. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
-
-### 4.3. Versão final da aplicação web (Semana 7)
-
-*Descreva e ilustre aqui o desenvolvimento da última versão do sistema web, explicando brevemente o que foi entregue em termos de código e sistema. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
+*Descreva e ilustre aqui o desenvolvimento do frontend do sistema web, explicando brevemente o que foi entregue em termos de código e sistema. Utilize prints de tela para ilustrar.*
 
 ---
 
-## <a name="c7"></a>5. Conclusões e Trabalhos Futuros (Semana 8)
+## <a name="c4"></a>4. Desenvolvimento da Aplicação Web (Semana 8)
+
+*Descreva e ilustre aqui o desenvolvimento do sistema web completo, explicando brevemente o que foi entregue em termos de código e sistema. Utilize prints de tela para ilustrar.*
+
+---
+
+### 4.1 Conclusões e Trabalhos Futuros (Semana 8)
 
 *VIDEO: Insira o link do vídeo demonstrativo nesta seção*
 
@@ -126,9 +116,4 @@
 _Incluir as principais referências de seu projeto, para que seu parceiro possa consultar caso ele se interessar em aprofundar. Um exemplo de referência de livro e de site:_<br>
 
 ---
-
-## <a name="c9"></a>7. Anexos
-
-*Inclua aqui quaisquer complementos para seu projeto, como diagramas, imagens, tabelas etc. Organize em sub-tópicos utilizando headings menores (use #)*
-
 ---
