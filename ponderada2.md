@@ -9,13 +9,6 @@ Entrega:
 
 Prazo de Entrega: até sexta-feira da *semana 5* do módulo.
 
-
-##  Requisitos Mínimos da Entrega
-- Criação do banco de dados PostgreSQL
-- Integração do Banco de Dados com o Servidor (migrations)
-- Arquitetura MVC
-- Documentação
-
 ---
 
 ## Recapitulando os fundamentos
@@ -383,14 +376,12 @@ Adicione a documentação sobre como configurar o banco de dados, como rodar as 
 
 ---
 
-## Critérios de Avaliação
-
-| Critério | Descrição | 
-| ------------- | ------------- |
-| 1. Conexão com o Banco de Dados | O banco de dados PostgreSQL está corretamente configurado e a conexão funciona sem erros. | 
-| 2. Implementação de Models | O modelo de dados é manipulado diretamente no banco com SQL. |
-| 3. Implementação de Controllers | As funções de CRUD estão corretamente implementadas nos controllers. |
-| 4. Rotas Funcionando | As rotas de CRUD funcionam corretamente e são acessíveis via API. |
-| 5. Migração Funcional | A migração do banco foi criada corretamente e executada com sucesso. |
-| 6. Arquitetura MVC Completa | A arquitetura apresenta  models, vies e controllers conforme versão atual do sistema. |
-| 7. Documentação Completa | O repositório contém uma documentação clara e completa sobre a versão atual do sistema. |
+##  Requisitos Mínimos da Entrega
+- Criação do banco de dados PostgreSQL
+- Conexão com o Banco de Dados 
+- Implementação de Models
+- Implementação de Controllers
+- Rotas Funcionando
+- Migração Funcional
+- Arquitetura MVC Completa
+- Documentação Completa
