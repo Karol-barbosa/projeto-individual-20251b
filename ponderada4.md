@@ -1,4 +1,4 @@
-# Projeto Individual (Parte 4) - Entrega Final: Demonstração e Documentação
+# Projeto Individual (Entrega Final) - Demonstração e Documentação
 Objetivo: Encerrar o projeto com uma entrega completa e funcional. Você irá revisar e atualizar toda a documentação do sistema, e também gravar um vídeo de demonstração, explicando o funcionamento da aplicação, os desafios encontrados e as soluções aplicadas.
 
 Prazo de Entrega: até sexta-feira da **semana 8** do módulo.
