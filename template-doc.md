@@ -12,8 +12,7 @@
 2. [Visão Geral da Aplicação Web](#c2)  
 3. [Projeto Técnico da Aplicação Web](#c3)  
 4. [Desenvolvimento da Aplicação Web](#c4)  
-5. [Conclusões e Trabalhos Futuros](#c7)  
-6. [Referências](#c8)  
+5. [Referências](#c5)  
 
 <br>
 
@@ -111,7 +110,7 @@
 
 ---
 
-## <a name="c8"></a>6. Referências
+## <a name="c5"></a>5. Referências
 
 _Incluir as principais referências de seu projeto, para que seu parceiro possa consultar caso ele se interessar em aprofundar. Um exemplo de referência de livro e de site:_<br>
 
