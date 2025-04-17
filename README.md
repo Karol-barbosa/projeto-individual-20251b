@@ -29,4 +29,4 @@ Para que o sistema seja considerado completo, ele deverá incluir:
 
 [Projeto Individual (Parte 3) - Construindo Interface e Navegação](/ponderada2.md)
 
-[Projeto Individual (Parte 4) -  Revisão de documentação e Demonstração ](/ponderada4.md)
+[Projeto Individual (Entrega Final) -  Revisão de documentação e Demonstração ](/ponderada4.md)
