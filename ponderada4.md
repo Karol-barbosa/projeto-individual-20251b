@@ -53,9 +53,9 @@ Organize a documentação para que qualquer pessoa consiga entender e rodar seu 
 - Organize o repositório: exclua arquivos inúteis e garanta que o `package.json` esteja funcional.
 
 ----
-## Critérios de Avaliação
+## Requisitos Mínimos de Entrega
 
-| Critério                      | Descrição                                                                 |
+| Requisito                      | Descrição                                                                 |
 |------------------------------|---------------------------------------------------------------------------|
 | 1. Demonstração funcional     | O vídeo mostra o sistema funcionando de ponta a ponta, com clareza.       |
 | 2. Clareza na explicação      | O aluno consegue explicar o sistema e suas decisões técnicas com objetividade. |
