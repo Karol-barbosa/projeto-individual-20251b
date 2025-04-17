@@ -9,12 +9,7 @@ Entrega:
 - Atualização do README.md com instruções de como executar o sistema
 - Atualização do WAD.md com prints das views e mudanças relevantes no backend e banco de dados
 
-##  Requisitos Mínimos da Entrega
-- Views conectadas: páginas visuais (HTML/EJS) exibindo dados reais do sistema
-- Estilização aplicada: CSS nas páginas, com foco em layout organizado e usabilidade
-- Integração front-back: fetch API usada para buscar/enviar dados
-- Estrutura MVC mantida: separação entre modelos, controladores, views e rotas
-- Código executável: aplicação funcionando com npm start ou node server.js
+---
 
 ## Instruções
 ### Passo 1 — Construção das Views (Interface do Sistema)
@@ -68,3 +63,12 @@ A interface precisa ter:
 - Botões e formulários com feedback visual
 
 🧰 Ferramentas que você pode usar: CSS puro (com Flexbox e Grid para organização dos elementos), Bootstrap, Tailwind ou outro framework
+
+---
+
+##  Requisitos Mínimos da Entrega
+- Views conectadas: páginas visuais (HTML/EJS) exibindo dados reais do sistema
+- Estilização aplicada: CSS nas páginas, com foco em layout organizado e usabilidade
+- Integração front-back: fetch API usada para buscar/enviar dados
+- Estrutura MVC mantida: separação entre modelos, controladores, views e rotas
+- Código executável: aplicação funcionando com npm start ou node server.js
