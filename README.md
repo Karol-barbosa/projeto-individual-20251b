@@ -23,10 +23,10 @@ Para que o sistema seja considerado completo, ele deverá incluir:
 
  ## Entregas Parciais
 
-[Projeto Individual (Parte 1) - Estruturando a Base do Projeto](/projeto-individual-20251b/ponderada1.md)
+[Projeto Individual (Parte 1) - Estruturando a Base do Projeto](/ponderada1.md)
 
-[Projeto Individual (Parte 2) - Conectando Banco de Dados e Servidor](/projeto-individual-20251b/ponderada2.md)
+[Projeto Individual (Parte 2) - Conectando Banco de Dados e Servidor](//ponderada2.md)
 
-[Projeto Individual (Parte 3) - Construindo Interface e Navegação](/projeto-individual-20251b/ponderada2.md)
+[Projeto Individual (Parte 3) - Construindo Interface e Navegação](/ponderada2.md)
 
-[Projeto Individual (Parte 4) -  Revisão de documentação e Demonstração ](/projeto-individual-20251b/ponderada4.md)
+[Projeto Individual (Parte 4) -  Revisão de documentação e Demonstração ](/ponderada4.md)
