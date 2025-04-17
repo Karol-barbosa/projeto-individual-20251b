@@ -344,11 +344,11 @@ E testar os endpoints do CRUD (usando o Postman ou outra ferramenta similar):
 ### Etapa 4 — Arquitetura MVC
 A Arquitetura MVC (Model-View-Controller) é uma abordagem que organiza a aplicação em três componentes principais:
 
-- Model: Representa a estrutura dos dados e interage diretamente com o banco de dados. No seu projeto, a modelagem dos dados é feita por meio de comandos SQL, sem o uso de ORM, onde a estrutura das tabelas é criada e gerenciada diretamente com SQL.
+- `Model`: Representa a estrutura dos dados e interage diretamente com o banco de dados. No seu projeto, a modelagem dos dados é feita por meio de comandos SQL, sem o uso de ORM, onde a estrutura das tabelas é criada e gerenciada diretamente com SQL.
 
-- View: Responsável pela interface com o usuário. Neste projeto, a view pode ser gerada por um frontend que consome os endpoints da API (ou pode ser algo mais simples, como um cliente REST que envia requisições).
+- `View`: Responsável pela interface com o usuário. Neste projeto, a view pode ser gerada por um frontend que consome os endpoints da API (ou pode ser algo mais simples, como um cliente REST que envia requisições).
 
-- Controller: Gerencia a lógica de negócios e atua como intermediário entre o Model e a View. Os controllers recebem as requisições HTTP, validam os dados e executam a manipulação do banco de dados, respondendo de forma adequada com os resultados.
+- `Controller`: Gerencia a lógica de negócios e atua como intermediário entre o Model e a View. Os controllers recebem as requisições HTTP, validam os dados e executam a manipulação do banco de dados, respondendo de forma adequada com os resultados.
 
 - Exemplo de MVC na Prática:
     - Model: A tabela tarefas no banco de dados.
@@ -360,11 +360,11 @@ A Arquitetura MVC (Model-View-Controller) é uma abordagem que organiza a aplica
 #### Passo 1 - Criando o diagrama de arquitetura
 Para criar o diagrama de arquitetura MVC (Model-View-Controller), siga estas etapas:
 
-- Model: Desenhe uma caixa que representa a camada de dados. Conecte-a às tabelas do banco de dados, demonstrando que o Model interage diretamente com o banco.
+- `Model`: Desenhe uma caixa que representa a camada de dados. Conecte-a às tabelas do banco de dados, demonstrando que o Model interage diretamente com o banco.
 
-- View: Crie uma caixa que representa a interface de usuário. Ela interage com o Controller para exibir as informações para o usuário.
+- `View`: Crie uma caixa que representa a interface de usuário. Ela interage com o Controller para exibir as informações para o usuário.
 
-- Controller: Adicione uma caixa para o Controller, conectando-a tanto ao Model quanto à View, indicando que ele manipula a lógica de negócios e lida com a comunicação entre a interface e os dados.
+- `Controller`: Adicione uma caixa para o Controller, conectando-a tanto ao Model quanto à View, indicando que ele manipula a lógica de negócios e lida com a comunicação entre a interface e os dados.
 
 - Relacionamentos: Use setas para conectar os componentes, demonstrando como os dados fluem entre o Model, Controller e View.
 
