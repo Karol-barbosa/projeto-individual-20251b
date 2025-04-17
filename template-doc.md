@@ -38,7 +38,16 @@
 
 ## <a name="c3"></a>3. Projeto da Aplicação Web
 
-### 3.1. Arquitetura (Semana 5)
+### 3.1. Modelagem do banco de dados  (Semana 3)
+
+*Posicione aqui os diagramas de modelos relacionais do seu banco de dados, apresentando todos os esquemas de tabelas e suas relações. Utilize texto para complementar suas explicações, se necessário.*
+
+*Posicione também o modelo físico com o Schema do BD (arquivo .sql)*
+
+### 3.1.1 BD e Models (Semana 5)
+*Descreva aqui os Models implementados no sistema web*
+
+### 3.2. Arquitetura (Semana 5)
 
 *Posicione aqui o diagrama de arquitetura da sua solução de aplicação web. Atualize sempre que necessário.*
 
@@ -49,40 +58,31 @@
   
 *Adicione as setas e explicações sobre como os dados fluem entre o Model, Controller e View.*
 
-### 3.2. Wireframes
+### 3.3. Wireframes
 
 *Posicione aqui as imagens do wireframe construído para sua solução e, opcionalmente, o link para acesso (mantenha o link sempre público para visualização).*
 
-### 3.3. Guia de estilos
+### 3.4. Guia de estilos
 
 *Descreva aqui orientações gerais para o leitor sobre como utilizar os componentes do guia de estilos de sua solução.*
 
-#### 3.3.1. Cores
+#### 3.4.1. Cores
 
 *Apresente aqui a paleta de cores, com seus códigos de aplicação e suas respectivas funções.*
 
-#### 3.3.2. Tipografia
+#### 3.4.2. Tipografia
 
 *Apresente aqui a tipografia da solução, com famílias de fontes e suas respectivas funções.*
 
-#### 3.3.3. Iconografia e imagens 
+#### 3.4.3. Iconografia e imagens 
 
 *(esta subseção é opcional, caso não existam ícones e imagens, apague esta subseção)*
 
 *Posicione aqui imagens e textos contendo exemplos padronizados de ícones e imagens, com seus respectivos atributos de aplicação, utilizadas na solução.*
 
-### 3.4. Protótipo de alta fidelidade
+### 3.5. Protótipo de alta fidelidade
 
 *Posicione aqui algumas imagens demonstrativas de seu protótipo de alta fidelidade e o link para acesso ao protótipo completo (mantenha o link sempre público para visualização).*
-
-### 3.5. Modelagem do banco de dados  (Semana 3)
-
-*Posicione aqui os diagramas de modelos relacionais do seu banco de dados, apresentando todos os esquemas de tabelas e suas relações. Utilize texto para complementar suas explicações, se necessário.*
-
-*Posicione também o modelo físico com o Schema do BD (arquivo .sql)*
-
-### 3.5.1 BD e Models (Semana 5)
-*Descreva aqui os Models implementados no sistema web*
 
 ### 3.6. WebAPI e endpoints (Semana 5)
 
