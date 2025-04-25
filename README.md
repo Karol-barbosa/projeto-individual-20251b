@@ -2,7 +2,7 @@
 Neste projeto, você será responsável por desenvolver um sistema web completo, com banco de dados, backend e frontend integrados. O objetivo é aplicar os conceitos do módulo e construir um projeto que possa ser incluído no seu portfólio profissional.
 
 Você deve escolher um entre os tipos de sistema abaixo para desenvolver:
-- Opção 1: Gerenciador de tarefas para organização e produtividade.
+- Opção 1: Gerenciador de tarefas para organização e produtividade
 - Opção 2: Sistema de reserva de salas para agendamentos. 
 - Opção 3: Plataforma de eventos com gerenciamento de inscrições. 
 
